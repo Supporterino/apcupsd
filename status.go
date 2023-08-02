@@ -116,6 +116,7 @@ type Status struct {
 	InternalTemp  float64
 	OutputVoltage float64
 	LineFrequency float64
+	// Output current in amps
 	OutputAmps    float64
 }
 
