@@ -1,4 +1,4 @@
-module github.com/mdlayher/apcupsd
+module github.com/Supporterino/apcupsd
 
 go 1.17
 
